@@ -28,8 +28,11 @@ Conocer la ley de Ohm, asi como la relación que existe entre voltaje, corriente
 OBJETIVOS ESPECÍFICOS
 
 •	Conocer la fórmula de la ley de ohm y sus características.
+
 •	Reconocer como se relaciona voltaje, resistencia y corriente.
+
 •	Saber que es energía y potencia dentro de un circuito.
+
 •	Resolver problemas del libro de Floyd para el dominio de los temas de la tarea 2.
 
 # 2.-MARCO TEÓRICO
