@@ -61,7 +61,8 @@ Determinamos la resistencia del circuito.
 
 Calculamos los valores de la intensidad por cada voltaje que se nos pide.
 
-![image](https://user-images.githubusercontent.com/116817673/202447415-8039f503-695a-4c86-9c3f-5ac2f6c58885.png)
+![image](https://user-images.githubusercontent.com/116817673/202567719-c2bda2ac-6153-418c-947d-306c10161cf1.png)
+
 
 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 
